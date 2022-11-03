@@ -1,5 +1,5 @@
 <p align="center">
-![Logo-MenToD-regular](https://user-images.githubusercontent.com/6905655/199693006-f7bea6ef-bd3c-4c57-a1a1-33058dc0bfbd.svg)
+![Logo-MenToD-regular](https://user-images.githubusercontent.com/6905655/199693147-df2b1120-95ac-4d47-a7df-8f202d4df523.svg)
 </p>
 
 <p align="center">
