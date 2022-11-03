@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://mentod.nl" target="_blank"><img width="916" alt="Logo-MenToD-regular@2x" src="https://user-images.githubusercontent.com/6905655/199693223-8e5fd614-b983-46e5-82fe-954db6a72184.png"></a>
+<a href="http://mentod.nl" target="_blank"><img width="400" alt="Logo-MenToD-regular@2x" src="https://user-images.githubusercontent.com/6905655/199693223-8e5fd614-b983-46e5-82fe-954db6a72184.png"></a>
 </p>
 
 <p align="center">
